@@ -1513,6 +1513,11 @@ components:
           properties:
             breed:
               type: string
+            className:
+              type: string
+            color:
+              type: string
+              default: red
     Enum_Test:
       type: object
       properties:
